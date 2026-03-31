@@ -81,7 +81,7 @@ const Dashboard = () => {
               </div>
               <div className="stat-item">
                 <div className="stat-value">{gamification.livesSaved}</div>
-                <div className="stat-label">Lives Saved</div>
+                <div className="stat-label">Lives </div>
               </div>
             </div>
 
